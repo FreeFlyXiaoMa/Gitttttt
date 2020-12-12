@@ -5,3 +5,5 @@
 # @File    : a.py
 # @Software: PyCharm
 
+def methond():
+    pass
