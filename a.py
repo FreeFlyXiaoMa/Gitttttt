@@ -11,3 +11,6 @@ def methond():
     :return:
     """
     pass
+
+def bbb():
+    pass
