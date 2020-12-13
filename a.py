@@ -14,3 +14,6 @@ def methond():
 
 def bbb():
     pass
+
+def ccc():
+    pass
