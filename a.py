@@ -11,6 +11,3 @@ def methond():
     :return:
     """
     pass
-
-def aaa():
-    pass
